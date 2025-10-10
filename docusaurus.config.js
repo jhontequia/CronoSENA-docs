@@ -121,15 +121,15 @@ const config = {
             items: [
               {
                 label: 'Stack Overflow',
-                href: '',
+                href: 'https://stackoverflow.com/',
               },
               {
                 label: 'Discord',
-                href: '',
+                href: 'https://discord.com/',
               },
               {
                 label: 'X',
-                href: '',
+                href: 'https://x.com/xenthrall0',
               },
             ],
           },
