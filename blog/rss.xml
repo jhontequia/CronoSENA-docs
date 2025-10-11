@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>CronoSENA Docs Blog</title>
-        <link>http://docs.cronosena.site/blog</link>
+        <link>https://docs.cronosena.site/blog</link>
         <description>CronoSENA Docs Blog</description>
         <lastBuildDate>Sat, 11 Oct 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>es</language>
         <item>
             <title><![CDATA[¡Bienvenido al Blog de CronoSENA!]]></title>
-            <link>http://docs.cronosena.site/blog/bienvenido</link>
-            <guid>http://docs.cronosena.site/blog/bienvenido</guid>
+            <link>https://docs.cronosena.site/blog/bienvenido</link>
+            <guid>https://docs.cronosena.site/blog/bienvenido</guid>
             <pubDate>Sat, 11 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[¡Bienvenidos al blog oficial de CronoSENA! 🎉]]></description>
             <content:encoded><![CDATA[<p>¡Bienvenidos al blog oficial de <strong>CronoSENA</strong>! 🎉<br>

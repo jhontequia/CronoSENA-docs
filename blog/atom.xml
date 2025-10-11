@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://docs.cronosena.site/blog</id>
+    <id>https://docs.cronosena.site/blog</id>
     <title>CronoSENA Docs Blog</title>
     <updated>2025-10-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://docs.cronosena.site/blog"/>
+    <link rel="alternate" href="https://docs.cronosena.site/blog"/>
     <subtitle>CronoSENA Docs Blog</subtitle>
-    <icon>http://docs.cronosena.site/img/favicon.ico</icon>
+    <icon>https://docs.cronosena.site/img/favicon.svg</icon>
     <entry>
         <title type="html"><![CDATA[¡Bienvenido al Blog de CronoSENA!]]></title>
-        <id>http://docs.cronosena.site/blog/bienvenido</id>
-        <link href="http://docs.cronosena.site/blog/bienvenido"/>
+        <id>https://docs.cronosena.site/blog/bienvenido</id>
+        <link href="https://docs.cronosena.site/blog/bienvenido"/>
         <updated>2025-10-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[¡Bienvenidos al blog oficial de CronoSENA! 🎉]]></summary>
         <content type="html"><![CDATA[<p>¡Bienvenidos al blog oficial de <strong>CronoSENA</strong>! 🎉<br>
