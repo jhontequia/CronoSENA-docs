@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\xa1Bienvenido al Blog de CronoSENA!","permalink":"/blog/bienvenido","unlisted":false,"date":"2025-10-11T00:00:00.000Z"}]}')}}]);
