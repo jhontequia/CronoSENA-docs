@@ -33,10 +33,15 @@ Las variables por defecto ya están configuradas para funcionar con `docker-comp
 
 ## 3. Instalar dependencias desde consola
 
-Desde la raíz del proyecto (\CronoSENA\src), ejecuta los siguientes comandos si es necesario:
+Desde la raíz del proyecto [\CronoSENA\src].
+Lo puedes hacer por ejemplo con  ```cd .\src\```.
 
-instalar las dependencias del proyecto:
- ## dependecias de composer
+ #### !!! recuerda  estar dentro de la carpeta src para poder ejecutar los siguientes comandos:
+
+Ejecuta los siguientes comandos si es necesario:
+
+ # Instalar las dependencias del proyecto:
+ ## Dependecias de composer
 ```bash
 composer install
 ```
@@ -55,15 +60,22 @@ Despues de este proceso, realizaremos la creacion de la clave criptográfica con
 ```bash
 php artisan key:generate
 ```
+Una vez tengas listo la clave criptografica vamos con un paso importante y es instalar las dependencias de npm:
+
+Con el siguiente comando 
+```bash
+npm install
+```
 
 ## 5. Ejecuta migraciones
 ```bash
 php artisan migrate
 ```
+Un vez tengas listo las migraciones vamos a hacer un paso escencial y es instalar las dependencias de npm
 
 ## ¡Listo para Usar!
 
-Abre tu navegador y accede a la siguiente URL para ver la aplicación en funcionamiento:
+Abre tu navegador y esrta sera el ejemplo claro de la url que vas a utilizar:
 
 👉 [http://localhost:8080](http://localhost:8080)
 
